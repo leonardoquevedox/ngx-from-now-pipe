@@ -1,6 +1,6 @@
-import { CommonModule } from '@angular/common';
-import { Pipe, NgModule } from '@angular/core';
 import * as moment_ from 'moment-mini';
+import { Pipe, NgModule } from '@angular/core';
+import { CommonModule } from '@angular/common';
 
 /**
  * @fileoverview added by tsickle
@@ -50,6 +50,6 @@ NgxFromNowPipeModule.decorators = [
  * @suppress {checkTypes,extraRequire,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
  */
 
-export { NgxFromNowPipeModule, NgxFromNowPipe as ɵa };
+export { NgxFromNowPipe, NgxFromNowPipeModule };
 
-//# sourceMappingURL=ngx-bank-account-br.js.map
+//# sourceMappingURL=ngx-from-now-pipe.js.map

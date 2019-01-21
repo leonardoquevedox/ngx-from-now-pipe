@@ -1,8 +1,8 @@
 (function (global, factory) {
-    typeof exports === 'object' && typeof module !== 'undefined' ? factory(exports, require('@angular/common'), require('@angular/core'), require('moment-mini')) :
-    typeof define === 'function' && define.amd ? define('ngx-bank-account-br', ['exports', '@angular/common', '@angular/core', 'moment-mini'], factory) :
-    (factory((global['ngx-bank-account-br'] = {}),global.ng.common,global.ng.core,global.moment_));
-}(this, (function (exports,common,core,moment_) { 'use strict';
+    typeof exports === 'object' && typeof module !== 'undefined' ? factory(exports, require('moment-mini'), require('@angular/core'), require('@angular/common')) :
+    typeof define === 'function' && define.amd ? define('ngx-from-now-pipe', ['exports', 'moment-mini', '@angular/core', '@angular/common'], factory) :
+    (factory((global['ngx-from-now-pipe'] = {}),global.moment_,global.ng.core,global.ng.common));
+}(this, (function (exports,moment_,core,common) { 'use strict';
 
     /**
      * @fileoverview added by tsickle
@@ -73,11 +73,11 @@
      * @suppress {checkTypes,extraRequire,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
      */
 
+    exports.NgxFromNowPipe = NgxFromNowPipe;
     exports.NgxFromNowPipeModule = NgxFromNowPipeModule;
-    exports.ɵa = NgxFromNowPipe;
 
     Object.defineProperty(exports, '__esModule', { value: true });
 
 })));
 
-//# sourceMappingURL=ngx-bank-account-br.umd.js.map
+//# sourceMappingURL=ngx-from-now-pipe.umd.js.map

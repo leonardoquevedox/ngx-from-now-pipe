@@ -1,11 +1,11 @@
 {
-  "name": "ngx-bank-account-br",
+  "name": "ngx-from-now-pipe",
   "version": "0.9.1",
-  "description": "Address autocomplete directive for Angular.io (2+).",
-  "main": "bundles/ngx-bank-account-br.umd.js",
+  "description": "Simple moment fromNow wrapper within an Angular.io pipe..",
+  "main": "bundles/ngx-from-now-pipe.umd.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/leopq/ngx-bank-account-br.git"
+    "url": "git+https://github.com/leopq/ngx-from-now-pipe.git"
   },
   "keywords": [
     "angular",
@@ -17,9 +17,9 @@
   "author": "Leonardo Quevedo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/leopq/ngx-bank-account-br/issues"
+    "url": "https://github.com/leopq/ngx-from-now-pipe/issues"
   },
-  "homepage": "https://github.com/leopq/ngx-bank-account-br#readme",
+  "homepage": "https://github.com/leopq/ngx-from-now-pipe#readme",
   "dependencies": {
     "@angular/common": "^7.1.3",
     "@angular/core": "^7.1.3",
@@ -34,13 +34,13 @@
     "tsickle": "^0.34.0",
     "typescript": "3.1.1"
   },
-  "module": "fesm5/ngx-bank-account-br.js",
-  "es2015": "fesm2015/ngx-bank-account-br.js",
-  "esm5": "esm5/ngx-bank-account-br.js",
-  "esm2015": "esm2015/ngx-bank-account-br.js",
-  "fesm5": "fesm5/ngx-bank-account-br.js",
-  "fesm2015": "fesm2015/ngx-bank-account-br.js",
-  "typings": "ngx-bank-account-br.d.ts",
-  "metadata": "ngx-bank-account-br.metadata.json",
+  "module": "fesm5/ngx-from-now-pipe.js",
+  "es2015": "fesm2015/ngx-from-now-pipe.js",
+  "esm5": "esm5/ngx-from-now-pipe.js",
+  "esm2015": "esm2015/ngx-from-now-pipe.js",
+  "fesm5": "fesm5/ngx-from-now-pipe.js",
+  "fesm2015": "fesm2015/ngx-from-now-pipe.js",
+  "typings": "ngx-from-now-pipe.d.ts",
+  "metadata": "ngx-from-now-pipe.metadata.json",
   "sideEffects": false
 }
