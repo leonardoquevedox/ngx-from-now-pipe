@@ -10,7 +10,7 @@
      */
     /** @type {?} */
     var moment = moment_;
-    var NgxFromNowPipe = /** @class */ (function () {
+    var NgxFromNowPipe = (function () {
         function NgxFromNowPipe() {
         }
         /**
@@ -50,7 +50,7 @@
      * @fileoverview added by tsickle
      * @suppress {checkTypes,extraRequire,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
      */
-    var NgxFromNowPipeModule = /** @class */ (function () {
+    var NgxFromNowPipeModule = (function () {
         function NgxFromNowPipeModule() {
         }
         NgxFromNowPipeModule.decorators = [
