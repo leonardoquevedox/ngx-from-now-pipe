@@ -1,6 +1,6 @@
 {
   "name": "ngx-from-now-pipe",
-  "version": "0.9.9",
+  "version": "1.0.0-rc20",
   "description": "Simple moment fromNow wrapper within an Angular.io pipe..",
   "main": "bundles/ngx-from-now-pipe.umd.js",
   "repository": {
@@ -32,7 +32,7 @@
     "@angular/compiler-cli": "^6.0.7",
     "ng-packagr": "^4.7.0",
     "tsickle": "^0.34.0",
-    "typescript": "2.7.2"
+    "typescript": "^2.7.2"
   },
   "module": "fesm5/ngx-from-now-pipe.js",
   "es2015": "fesm2015/ngx-from-now-pipe.js",
