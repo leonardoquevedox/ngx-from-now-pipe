@@ -1,6 +1,6 @@
 {
   "name": "ngx-from-now-pipe",
-  "version": "1.0.0-rc20",
+  "version": "1.0.0-rc21",
   "description": "Simple moment fromNow wrapper within an Angular.io pipe..",
   "main": "index.js",
   "scripts": {
